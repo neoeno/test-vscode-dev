@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "ms-vscode.webshell",
+    "ms-vscode.vscode-python-web-wasm"
+  ]
+}
